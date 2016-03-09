@@ -73,7 +73,8 @@ Sometimes it's easier to look for other people who already possess certain infor
   - People assume others will take the task, so words like `someone`, `anyone`, `folks`, `y'all` are bad practice
   - Assign your request to a specific person or do it yourself, it won't get done otherwise.
   - Don't be afraid of asking others for help, but don't abuse delegation
-- Don't abuse @channel, or @here.
+- Don't abuse @channel, @here, @everyone, @some_team or shorthands that notify people and interrupt
+- Use `team`, `folks`, `peeps` or similar non-gendered pronouns to refer to groups of people
 - If there is no github issue, there is no problem. Ask for the creation of one or make it yourself.
 - If your email/issue is longer than 2 paragraphs, use a [TL;DR][tldr]
 - Include _just enough_ information.
@@ -130,7 +131,7 @@ The general rule is, make sure your availability is not a blocker for the team.
 
 ## What should I do if someone is not following these guidelines?
 
-- assume it's not intential
+- assume it's not intentional
 - if it's the first time it happens, you may remind them how we prefer to work by pointing them to this guide privately
 - if you don't feel comfortable with the above, talk to your manager who will help you find a solution
 - if you don't feel comfortable with the above, you may bring it up to another manager with appropiate context
@@ -139,13 +140,13 @@ The general rule is, make sure your availability is not a blocker for the team.
 
 Since there is a [direct relationship between how we communicate and how we perform as a team](communication-study), these guidelines aim to make ourselves better as a team, while we build excellent software and products. This document is open for discussion and your input is encouraged so we can grow together.
 
-[ride-org]: https://github.com/ride
-[ride-product-org]: https://github.com/ride-product
+[ride-org]: https://github.com/
+[ride-product-org]: https://github.com/
 [support-waffle]: https://waffle.io/
 [slack-directory]: https://yourownslack.slack.com/team
 [lazyweb]: http://lmgtfy.com/?q=lazyweb
 [ack]: https://gist.github.com/buritica/da847e11d8a6087433dc
 [tldr]: https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read
 [hemingway]: http://www.hemingwayapp.com/
-[availz-cal]: yourcompanysdomaincalendar.com/basic.ics
+[availz-cal]: http://yourcompanysdomaincalendar.com/basic.ics
 [communication-study]:http://eprints.qut.edu.au/30311/1/Stacey_Hassall_Thesis.pdf
