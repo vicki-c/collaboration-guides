@@ -138,7 +138,7 @@ The general rule is, make sure your availability is not a blocker for the team.
 
 ## Final comments
 
-Since there is a [direct relationship between how we communicate and how we perform as a team](communication-study), these guidelines aim to make ourselves better as a team, while we build excellent software and products. This document is open for discussion and your input is encouraged so we can grow together.
+Since there is a [direct relationship between how we communicate and how we perform as a team](http://eprints.qut.edu.au/30311/1/Stacey_Hassall_Thesis.pdf), these guidelines aim to make ourselves better as a team, while we build excellent software and products. This document is open for discussion and your input is encouraged so we can grow together.
 
 [ride-org]: https://github.com/
 [ride-product-org]: https://github.com/
@@ -149,4 +149,3 @@ Since there is a [direct relationship between how we communicate and how we perf
 [tldr]: https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read
 [hemingway]: http://www.hemingwayapp.com/
 [availz-cal]: http://yourcompanysdomaincalendar.com/basic.ics
-[communication-study]:http://eprints.qut.edu.au/30311/1/Stacey_Hassall_Thesis.pdf
