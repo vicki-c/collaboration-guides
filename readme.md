@@ -36,7 +36,7 @@ Sometimes it's easier to look for other people who already possess certain infor
 - if medical emergency, call 911
 
 ## If someone reaches out for help
-- assume good intent
+- respond patiently
   - expect said person has followed the above process before they reached out to you
   - be patient
 - excercise good time management
