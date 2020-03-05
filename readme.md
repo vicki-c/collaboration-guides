@@ -1,6 +1,8 @@
-# Guidelines for Effective Collaboration
+# Guide for Effective Remote Collaboration
 
-We are a remote team, therefore effective communication is one of the most important foundations on which we build our technology and our company. Below you will find a thorough guide to enable your work and empower your teammates to get their stuff done, while keeping interruptions to a minimum. These guidelines apply to Ride employees and consultants who work under the Engineering Team
+Forked from buritica's [Guidelines][https://github.com/buritica/collaboration-guides].
+
+We are a remote team, therefore effective communication is one of the most important foundations on which we build our technology and our company. Below you will find a thorough guide to enable your work and empower your teammates to get their stuff done, while keeping interruptions to a minimum.
 
 ![](https://media.giphy.com/media/te5kegSXpJS7K/giphy.gif)
 
