@@ -12,27 +12,20 @@ If you need something, keep in mind that others have a job to do as well. Before
 - Is this information sensitive?
     - i.e. keys, passwords, customer personal information
     - don't share these via email or other unsafe means.
-    - passwords go in 1password, engineering vault
+    - passwords go in confidant, lastpass
 - is it **urgent**?
     - urgent means, something needs to be done in the next ten minutes.
     - if it can wait 1 or two hours, **it is not urgent**
-- Am I trying to do [#lazyweb][lazyweb]?
 
 ## Preferred communication methods
 Sometimes it's easier to look for other people who already possess certain information, but in many cases these same people are trying to concentrate in their day to day work. If after going through the above questions you still need to reach out to someone, start going down the following list of preferred communication methods in increasing urgency order:
-- github issue, so information can be shared
-  - for engineering use the right repo found in [ride org][ride-org]
-  - if anyone outside of eng is involved use [ride-product org][ride-product-org]
-  - if you don't know what repo means, you're looking for the [support waffle][support-waffle]
+- JIRA issue, so information can be shared
 - if people outside of engineering are involved, email
 - slack
-  - keep in mind your messages may be lost in history
+  - keep in mind your messages may be hard to find later
   - don't abuse @channel, or @here or other commands because people stop paying attention
-- sms, if urgent
-  - you can generally find a person's phone number in the [slack directory][slack-directory]
-  - is your phone in said directory yet?
 - if in the same location, is urgent and it warrants interruption, go straight to the person
-- if the sky is falling, call cell
+- if the sky is falling, page on pagerduty
 - if medical emergency, call 911
 
 ## If someone reaches out for help
@@ -58,9 +51,9 @@ Sometimes it's easier to look for other people who already possess certain infor
   - as I/someone else said before/last week/hour/50 times
 
 ## Argument or ineffective discussion etiquette over written mediums
-- If you're not involved, suggest a phonecall :phone:
+- If you're not involved, suggest a video chat :phone:
 - Don't add noise, like jokes or emojis, it makes discussions worse.
-- If you are involved, ask for a call.
+- If you are involved, ask for a video chat.
 - Be polite and respectful, always.
 - If you are upset, step away for a 10 minute walk and come back.
 - If you notice someone else is upset, suggest a break but don't force it.
@@ -79,15 +72,13 @@ Sometimes it's easier to look for other people who already possess certain infor
 - If your email/issue is longer than 2 paragraphs, use a [TL;DR][tldr]
 - Include _just enough_ information.
   - Don't add information that would make something harder to process.
-  - When in doubt, use [Hemingway App][hemingway].
 
 ## Response etiquette
 - Don't abuse `reply-all`
-- Our default email read time is 12 hours, unless you're in support rotation where it should be less than 4 so we can cover our team-mates.
 - Act on our common list of subject labels, see table below.
 - If your message allows for a longer response time, use label modifiers like [ack-24] or [ack-48] in your subjects, meaning 24 or 48 hours
-- If you need a response in less than 4 hours, be mindful of interruptions or ask @buritica or your manager for help first
-- **Any problem that needs to be solved in less than 4 hours should be handled by [Engineering Support rotation][support-waffle]**
+- If you need a response in less than 4 hours, be mindful of interruptions or ask your manager for help first
+- **Any problem that needs to be solved right away should be handled by paging the relevant team**
 
 #### Acking
 - acking (replying to an email with `ack`) is an easy way to help others know we're in sync
@@ -96,38 +87,31 @@ Sometimes it's easier to look for other people who already possess certain infor
 
 #### Subject Labels
 
-|       label       |                      definition                     |
-|-------------------|-----------------------------------------------------|
-| [ack]             | sender requires acknowledgement within 12 hours     |
-| [broadcast]       | no ack needed                                       |
-| [action-needed]   | you need to do something besides reading this email |
-| [response-needed] | you need to reply with something besides ack        |
-| [xxxx-24]         | modifies any label to default to 24 normal hours    |
-| [xxxx-48]         | 2 days to reply or act upon                         |
-| [xxxx-72]         | 3 days to reply or act upon                         |
-|                   |                                                     |
+|       label        |                      definition                     |
+|--------------------|-----------------------------------------------------|
+| [ACK]              | sender requires acknowledgement within 12 hours     |
+| [FYI]              | no ack needed                                       |
+| [Action Required]  | you need to do something besides reading this email |
+| [Response Required]| you need to reply with something besides ack        |
+| [xxxx-24]          | modifies any label to default to 24 normal hours    |
+| [xxxx-48]          | 2 days to reply or act upon                         |
+| [xxxx-72]          | 3 days to reply or act upon                         |
+|                    |                                                     |
 
 ## Availability Etiquette
 
 The general rule is, make sure your availability is not a blocker for the team.
 
-- Engineering team overall should be generally available during NYC 10am - 6pm (coverage is important)
+- Engineering team overall should be generally available during local time 10am - 6pm (coverage is important)
 - You are free to work on your own schedule
 - If you use your home timezone, overlap at least 4 hours and attend any necessary meetings that require you
-- If you'll be unavailable (unreachable) for 1 or more hours during 10 - 6 NYC:
+- If you'll be unavailable (unreachable) for 1 or more hours during 10 - 6:
   - make sure someone can cover you, or knows where to find you in case of downtime or urgent issue
-  - send an email to engineering@ride informing the change with at least 24hrs notice and who is covering you
+  - let your team and EM know about coverage plan
   - no need to go into details about the nature of the appointment
-  - add it to the [Availibility Calendar][availz-cal]
-    - if I had to go to dentist: `buritica - off the grid - 1hr`
+  - add it to your calendar or your team shared calendar
 - If you'll be traveling, working remote, or taking time off:
   - make sure someone can cover you, or knows where to find you in case of downtime or urgent issue
-  - send an email to engineering@ride at least 1 week in advance, and where to find you in case of downtime or urgent issue
-  - add it to the [Availibility Calendar][availz-cal]
-    - if I would be working from a city that is not my base, during the NYC timezone: `buritica - remote - atlanta`
-    - if I would be working remote, sticking to a different timezone: `buritica - remote - unavailable due to timezone`
-    - if I am taking time off: `buritica - off-the-grid`
-    - if I am taking a flight during 10 - 6: `buritica - NYC > BOG`
 
 ## What should I do if someone is not following these guidelines?
 
@@ -136,16 +120,5 @@ The general rule is, make sure your availability is not a blocker for the team.
 - if you don't feel comfortable with the above, talk to your manager who will help you find a solution
 - if you don't feel comfortable with the above, you may bring it up to another manager with appropiate context
 
-## Final comments
-
-Since there is a [direct relationship between how we communicate and how we perform as a team](http://eprints.qut.edu.au/30311/1/Stacey_Hassall_Thesis.pdf), these guidelines aim to make ourselves better as a team, while we build excellent software and products. This document is open for discussion and your input is encouraged so we can grow together.
-
-[ride-org]: https://github.com/
-[ride-product-org]: https://github.com/
-[support-waffle]: https://waffle.io/
-[slack-directory]: https://yourownslack.slack.com/team
-[lazyweb]: http://lmgtfy.com/?q=lazyweb
 [ack]: https://gist.github.com/buritica/da847e11d8a6087433dc
 [tldr]: https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read
-[hemingway]: http://www.hemingwayapp.com/
-[availz-cal]: http://yourcompanysdomaincalendar.com/basic.ics
