@@ -1,6 +1,6 @@
 # Guide for Effective Remote Collaboration
 
-Forked from buritica's [Guidelines][https://github.com/buritica/collaboration-guides].
+Forked from buritica's [Guidelines][guidelines].
 
 We are a remote team, therefore effective communication is one of the most important foundations on which we build our technology and our company. Below you will find a thorough guide to enable your work and empower your teammates to get their stuff done, while keeping interruptions to a minimum.
 
@@ -124,3 +124,4 @@ The general rule is, make sure your availability is not a blocker for the team.
 
 [ack]: https://gist.github.com/buritica/da847e11d8a6087433dc
 [tldr]: https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read
+[guidelines]: https://github.com/buritica/collaboration-guides
