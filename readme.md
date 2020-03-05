@@ -84,7 +84,7 @@ Sometimes it's easier to look for other people who already possess certain infor
 
 #### Acking
 - acking (replying to an email with `ack`) is an easy way to help others know we're in sync
-- where does ack come from in our team? [read this][ack]
+- where does ack come from in our team? [read this][ack-link]
 - **don't reply all**
 
 #### Subject Labels
@@ -122,6 +122,6 @@ The general rule is, make sure your availability is not a blocker for the team.
 - if you don't feel comfortable with the above, talk to your manager who will help you find a solution
 - if you don't feel comfortable with the above, you may bring it up to another manager with appropiate context
 
-[ack]: https://gist.github.com/buritica/da847e11d8a6087433dc
+[ack-link]: https://gist.github.com/buritica/da847e11d8a6087433dc
 [tldr]: https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read
 [guidelines]: https://github.com/buritica/collaboration-guides
