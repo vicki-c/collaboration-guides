@@ -8,8 +8,8 @@ We are a remote team, therefore effective communication is one of the most impor
 
 ## What to do if I need help
 If you need something, keep in mind that others have a job to do as well. Before reaching out, ask yourself:
-- has this been asked before?
-- Start by searching in github, email, or dropbox documentation, slack history - invest at least 2 minutes in each.
+- Has this been asked before?
+- Start by searching in Slack (e.g. #infrahelpknowledgebase), email, JIRA, or [engdocs][engdocs] - invest at least 2 minutes in each.
 - Is this information for me only, or could other people benefit from it? (to determine if private message, or public forum like gh, etc)
 - Is this information sensitive?
     - i.e. keys, passwords, customer personal information
@@ -27,7 +27,7 @@ Sometimes it's easier to look for other people who already possess certain infor
   - keep in mind your messages may be hard to find later
   - don't abuse @channel, or @here or other commands because people stop paying attention
 - if in the same location, is urgent and it warrants interruption, go straight to the person
-- if the sky is falling, page on pagerduty
+- if **urgent**, page on pagerduty
 - if medical emergency, call 911
 
 ## If someone reaches out for help
@@ -125,3 +125,4 @@ The general rule is, make sure your availability is not a blocker for the team.
 [ack-link]: https://gist.github.com/buritica/da847e11d8a6087433dc
 [tldr]: https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read
 [guidelines]: https://github.com/buritica/collaboration-guides
+[engdocs]: https://docs.lyft.net/eng/
